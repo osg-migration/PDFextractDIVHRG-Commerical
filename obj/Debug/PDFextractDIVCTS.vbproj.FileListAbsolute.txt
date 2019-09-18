@@ -15,3 +15,15 @@
 \\nchubby\TECHNICAL\Source\Implementation\VB64\PDFextractDIVCTS\obj\Debug\PDFextractDIVCTS.exe
 \\nchubby\TECHNICAL\Source\Implementation\VB64\PDFextractDIVCTS\obj\Debug\PDFextractDIVCTS.xml
 \\nchubby\TECHNICAL\Source\Implementation\VB64\PDFextractDIVCTS\obj\Debug\PDFextractDIVCTS.pdb
+D:\OSG\Github\PDFextractDIVHRG-Commerical\bin\release\PDFextractDIVCTS.exe.config
+D:\OSG\Github\PDFextractDIVHRG-Commerical\bin\release\PDFextractDIVCTS.exe
+D:\OSG\Github\PDFextractDIVHRG-Commerical\bin\release\PDFextractDIVCTS.pdb
+D:\OSG\Github\PDFextractDIVHRG-Commerical\bin\release\PDFextractDIVCTS.xml
+D:\OSG\Github\PDFextractDIVHRG-Commerical\obj\Debug\PDFextractDIVCTS.Form1.resources
+D:\OSG\Github\PDFextractDIVHRG-Commerical\obj\Debug\PDFextractDIVCTS.Resources.resources
+D:\OSG\Github\PDFextractDIVHRG-Commerical\obj\Debug\PDFextractDIVCTS.vbproj.GenerateResource.cache
+D:\OSG\Github\PDFextractDIVHRG-Commerical\obj\Debug\PDFextractDIVCTS.vbproj.CoreCompileInputs.cache
+D:\OSG\Github\PDFextractDIVHRG-Commerical\obj\Debug\PDFextractDIVCTS.vbproj.CopyComplete
+D:\OSG\Github\PDFextractDIVHRG-Commerical\obj\Debug\PDFextractDIVCTS.exe
+D:\OSG\Github\PDFextractDIVHRG-Commerical\obj\Debug\PDFextractDIVCTS.xml
+D:\OSG\Github\PDFextractDIVHRG-Commerical\obj\Debug\PDFextractDIVCTS.pdb
